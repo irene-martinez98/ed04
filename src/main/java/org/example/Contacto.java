@@ -7,7 +7,7 @@ import java.util.List;
  * Clase Contacto que representa a cada contacto
  * con su nombre y lista de teléfonos
  */
-class Contacto {
+public class Contacto {
     private String name;
     private List<String> phones;
 
